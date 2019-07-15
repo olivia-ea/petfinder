@@ -15,6 +15,38 @@ Petrec aims to reduce the rate of pets put up for adoption by informing users of
 * Backend: Python, Django, PostgreSQL, SQLAlchemy 
 * APIs: Petfinder
 
+## Installation
+
+To run SongMuse on local computer, follow the below steps:
+
+Clone repository: 
+```
+$ https://github.com/olivia-ea/petfinder
+```
+
+Set up virtual environment: 
+
+```
+$ virtualenv env
+```
+
+Activate virtual envirnoment:
+```
+$ source env/bin/activate
+```
+
+Install dependencies:
+```
+$ pip3 install -r requirements.txt
+```
+
+Run from the command line:
+```
+$ python3 manage.py runserver
+```
+
+Open http://127.0.0.1:8000/ on browser.
+
 ## Features
 
 * Log In/Log out.
