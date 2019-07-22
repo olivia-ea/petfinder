@@ -14,7 +14,7 @@ Petrec aims to reduce the rate of pets put up for adoption by informing users of
 
 
 ## TechStack
-* Frontend: HTML5, JavaScript, Jinja, jQuery, Bootstrap 
+* Frontend: HTML5, JavaScript, Jinja2, jQuery, Bootstrap, React 
 * Backend: Python, Django, PostgreSQL, SQLAlchemy 
 * APIs: Petfinder
 
