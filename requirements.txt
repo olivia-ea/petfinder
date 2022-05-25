@@ -16,7 +16,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 ngrok==0.0.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 PySocks==1.6.8
 pytz==2019.1
 requests==2.21.0
